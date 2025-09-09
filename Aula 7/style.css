@@ -1,0 +1,119 @@
+p{
+    color: blue;
+}
+
+#title{
+    background-color: yellow;
+}
+
+.subtitles{
+    color: green;
+}
+
+ul li{
+    color: brown;
+}
+
+.box1{
+    background-color: red;
+    color: red;
+}
+
+.box2{
+    background-color: black;
+}
+
+.texts{
+    color: rgb(196, 201, 255);
+}
+
+#paragraph_center{
+    text-align: center;
+    color: black;
+}
+
+#link_a{
+    color: #2b2b2b;
+}
+
+#link_b{
+    color: #8e0000;
+}
+
+.paragraph_class{
+    font-weight: 800;
+    color: rgb(63, 63, 63);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px 0;
+}
+
+.image_css{
+    padding: 5px 25px;
+    width: 150px;
+}
+
+div p{
+    color: #8e0000;
+}
+
+#titulo-principal {
+  font-family: Arial, sans-serif;  
+}
+
+.negrito {
+  font-weight: bold; 
+}
+
+.italico {
+  font-style: italic; 
+}
+
+.sublinhado {
+  text-decoration: underline; 
+}
+div h3 {
+  color: purple; 
+}
+#caixa-vermelha {
+  background-color: red;
+  width: 100px; 
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+#caixa-verde {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+#caixa-azul {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.destaque {
+  color: orange; 
+  font-weight: bold; 
+}
+#minha-caixa {
+  background-color: lightgray; 
+  border: 2px solid black; 
+  padding: 20px; 
+}
+.link-estilo {
+  text-decoration: none; 
+  color: blue; 
+  font-weight: bold; 
+}
+h1, p, a {
+  color: darkcyan;
+
+
