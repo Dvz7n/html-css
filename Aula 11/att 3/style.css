@@ -1,0 +1,51 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+    margin: 0;
+    background-color: #f4f4f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #ff0f0f;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 5px solid #7a2002;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header .slogan {
+    margin: 5px 0 0;
+    font-style: italic;
+    opacity: 0.9;
+}
+
+main {
+    flex-grow: 1;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+}
+
+main h2 {   
+    color: #ff0303db;
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+   
+    
+}
+
+
+
