@@ -1,0 +1,39 @@
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 10px;
+}
+
+
+thead th {
+    background-color: #003366;
+    color: white;
+    padding: 12px;
+}
+
+
+.pontos {
+    font-weight: bold;
+    color: blue;
+    background-color: #e6f0ff;
+}
+
+
+.vencedor {
+    background-color: #ffdd57;
+    font-weight: bold;
+    border: 2px solid #ccaa00;
+}
+
+
+.time {
+    text-align: left;
+}
